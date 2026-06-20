@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Jai",
+        "message_sent": "Hi",
+        "last_3_incoming_messages": [
+            "Going to kfc",
+            "Are you willing to join",
+            "Hi"
+        ]
+    },
+    {
+        "name": "Shenba",
+        "message_sent": "Hi",
+        "last_3_incoming_messages": [
+            "Hi",
+            "Bro",
+            "At Office"
+        ]
+    }
+]
